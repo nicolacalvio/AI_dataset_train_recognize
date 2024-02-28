@@ -1,0 +1,11 @@
+torch-directml
+matplotlib
+requests
+Pillow
+pytorch_lightning
+torchmetrics
+transformers
+huggingface_hub
+selenium
+onnxruntime
+timm

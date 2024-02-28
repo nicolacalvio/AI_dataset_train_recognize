@@ -1,0 +1,2972 @@
+[
+    {
+      "IATACode": "351",
+      "ICAOCode": "A35K",
+      "Model": "Airbus A350-1000",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "A4F",
+      "ICAOCode": "A124",
+      "Model": "Antonov AN-124 Ruslan",
+      "Aircraft_Manufacturer": "Antonov",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Antonov"
+    },
+    {
+      "IATACode": "339",
+      "ICAOCode": "A339",
+      "Model": "Airbus A330-900neo",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "32N",
+      "ICAOCode": "A20N",
+      "Model": "Airbus A320neo",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "BH2",
+      "ICAOCode": "B212",
+      "Model": "Bell 212",
+      "Aircraft_Manufacturer": "Bell",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "Bell"
+    },
+    {
+      "IATACode": "333",
+      "ICAOCode": "A333",
+      "Model": "Airbus A330-300",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "734",
+      "ICAOCode": "B734",
+      "Model": "Boeing 737-400",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "312",
+      "ICAOCode": "A310",
+      "Model": "Airbus A310-200",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "736",
+      "ICAOCode": "B736",
+      "Model": "Boeing 737-600",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "AT7",
+      "ICAOCode": "AT72",
+      "Model": "Aerospatiale Alenia ATR 72",
+      "Aircraft_Manufacturer": "Aerospatiale",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Aerospatiale"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "BL8",
+      "Model": "8KCAB Decathlon, 8GCBC Scout",
+      "Aircraft_Manufacturer": "Aeroprakt",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Aeroprakt"
+    },
+    {
+      "IATACode": "AT5",
+      "ICAOCode": "AT45",
+      "Model": "Aerospatiale Alenia ATR 42-500",
+      "Aircraft_Manufacturer": "Aerospatiale",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Aerospatiale"
+    },
+    {
+      "IATACode": "143",
+      "ICAOCode": "B463",
+      "Model": "BAe 146-300",
+      "Aircraft_Manufacturer": "(undefined)",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "British Aerospace"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "A210",
+      "Model": "Aquila A 210",
+      "Aircraft_Manufacturer": "Aquila",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Aquila"
+    },
+    {
+      "IATACode": "A32",
+      "ICAOCode": "AN32",
+      "Model": "Antonov AN-32",
+      "Aircraft_Manufacturer": "Antonov",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Antonov"
+    },
+    {
+      "IATACode": "(undefined)",
+      "ICAOCode": "A337",
+      "Model": "Airbus A330-700 Beluga XL",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "AR7",
+      "ICAOCode": "RJ70",
+      "Model": "Avro RJ70",
+      "Aircraft_Manufacturer": "Avro International Aerospace",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Avro International Aerospace"
+    },
+    {
+      "IATACode": "223",
+      "ICAOCode": "BCS3",
+      "Model": "Airbus A220-300",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "CRV",
+      "ICAOCode": "S210",
+      "Model": "Aerospatiale (Sud Aviation) Se.210 Caravelle",
+      "Aircraft_Manufacturer": "Aerospatiale",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Aerospatiale"
+    },
+    {
+      "IATACode": "32C",
+      "ICAOCode": "A318",
+      "Model": "Airbus A318 (sharklets)",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "A58",
+      "ICAOCode": "A158",
+      "Model": "Antonov An-158",
+      "Aircraft_Manufacturer": "Antonov",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Antonov"
+    },
+    {
+      "IATACode": "ATR",
+      "ICAOCode": "AT76",
+      "Model": "Aerospatiale Alenia ATR 72-600",
+      "Aircraft_Manufacturer": "Aerospatiale",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Aerospatiale"
+    },
+    {
+      "IATACode": "321",
+      "ICAOCode": "A321",
+      "Model": "Airbus A321",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "ATR",
+      "ICAOCode": "AT73",
+      "Model": "Aerospatiale Alenia ATR 72-200 series",
+      "Aircraft_Manufacturer": "Aerospatiale",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Aerospatiale"
+    },
+    {
+      "IATACode": "346",
+      "ICAOCode": "A346",
+      "Model": "Airbus A340-600",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "ABB",
+      "ICAOCode": "A3ST",
+      "Model": "Airbus A300-600ST Beluga",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "313",
+      "ICAOCode": "A310",
+      "Model": "Airbus A310-300",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "32A",
+      "ICAOCode": "A320",
+      "Model": "Airbus A320 (sharklets)",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "32D",
+      "ICAOCode": "A319",
+      "Model": "Airbus A319 (sharklets)",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "(undefined)",
+      "ICAOCode": "EA33",
+      "Model": "Airbus A330",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "BER2",
+      "Model": "Beriev Be-200 Altair",
+      "Aircraft_Manufacturer": "Beriev Aircraft Company",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Beriev Aircraft Company"
+    },
+    {
+      "IATACode": "721",
+      "ICAOCode": "B721",
+      "Model": "Boeing 727-100",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "338",
+      "ICAOCode": "A338",
+      "Model": "Airbus A330-800neo",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "343",
+      "ICAOCode": "A343",
+      "Model": "Airbus A340-300",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "388",
+      "ICAOCode": "A388",
+      "Model": "Airbus A380-800",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "A81",
+      "ICAOCode": "A148",
+      "Model": "Antonov An-148",
+      "Aircraft_Manufacturer": "Antonov",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Antonov"
+    },
+    {
+      "IATACode": "A26",
+      "ICAOCode": "AN26",
+      "Model": "Antonov AN-26",
+      "Aircraft_Manufacturer": "Antonov",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Antonov"
+    },
+    {
+      "IATACode": "74D",
+      "ICAOCode": "B743",
+      "Model": "Boeing 747-300M",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "AN7",
+      "ICAOCode": "AN72",
+      "Model": "Antonov AN-72",
+      "Aircraft_Manufacturer": "Antonov",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Antonov"
+    },
+    {
+      "IATACode": "B72",
+      "ICAOCode": "B720",
+      "Model": "Boeing 720B",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "(undefined)",
+      "ICAOCode": "EA31",
+      "Model": "Airbus A310",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "BH2",
+      "ICAOCode": "B429",
+      "Model": "Bell 429",
+      "Aircraft_Manufacturer": "Bell",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "Bell"
+    },
+    {
+      "IATACode": "AR8",
+      "ICAOCode": "RJ85",
+      "Model": "Avro RJ85",
+      "Aircraft_Manufacturer": "Avro International Aerospace",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Avro International Aerospace"
+    },
+    {
+      "IATACode": "142",
+      "ICAOCode": "B462",
+      "Model": "BAe 146-200",
+      "Aircraft_Manufacturer": "(undefined)",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "British Aerospace"
+    },
+    {
+      "IATACode": "342",
+      "ICAOCode": "A342",
+      "Model": "Airbus A340-200",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "BH2",
+      "ICAOCode": "B412",
+      "Model": "Bell 412",
+      "Aircraft_Manufacturer": "Bell",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "Bell"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "CH7A",
+      "Model": "7AC Champ, 7ECA Citabria",
+      "Aircraft_Manufacturer": "Champion Aircraft Corporation",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Champion Aircraft Corporation"
+    },
+    {
+      "IATACode": "74X",
+      "ICAOCode": "B742",
+      "Model": "Boeing 747-200F",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "141",
+      "ICAOCode": "B461",
+      "Model": "BAe 146-100",
+      "Aircraft_Manufacturer": "(undefined)",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "British Aerospace"
+    },
+    {
+      "IATACode": "345",
+      "ICAOCode": "A345",
+      "Model": "Airbus A340-500",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "AP22",
+      "Model": "Aeroprakt A-22",
+      "Aircraft_Manufacturer": "Aeroprakt",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Aeroprakt"
+    },
+    {
+      "IATACode": "722",
+      "ICAOCode": "B722",
+      "Model": "Boeing 727-200",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "BE58",
+      "Model": "Beechcraft Baron",
+      "Aircraft_Manufacturer": "Beechcraft",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Beechcraft"
+    },
+    {
+      "IATACode": "359",
+      "ICAOCode": "A359",
+      "Model": "Airbus A350-900",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "NDC",
+      "ICAOCode": "S601",
+      "Model": "Aerospatiale SN.601 Corvette",
+      "Aircraft_Manufacturer": "Aerospatiale",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Aerospatiale"
+    },
+    {
+      "IATACode": "74B",
+      "ICAOCode": "BLCF",
+      "Model": "Boeing 747 LCF Dreamlifter",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "AB4",
+      "ICAOCode": "A30B",
+      "Model": "Airbus A300B2, A300B4, and A300C4",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "744",
+      "ICAOCode": "B744",
+      "Model": "Boeing 747-400",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "32B",
+      "ICAOCode": "A321",
+      "Model": "Airbus A321 (sharklets)",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "A30",
+      "ICAOCode": "AN30",
+      "Model": "Antonov AN-30",
+      "Aircraft_Manufacturer": "Antonov",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Antonov"
+    },
+    {
+      "IATACode": "7M9",
+      "ICAOCode": "B39M",
+      "Model": "Boeing 737 MAX 9",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "74T",
+      "ICAOCode": "B741",
+      "Model": "Boeing 747-100 Freighter",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "318",
+      "ICAOCode": "A318",
+      "Model": "Airbus A318",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "733",
+      "ICAOCode": "B733",
+      "Model": "Boeing 737-300",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "7M8",
+      "ICAOCode": "B38M",
+      "Model": "Boeing 737 MAX 8",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "717",
+      "ICAOCode": "B712",
+      "Model": "Boeing 717",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "31N",
+      "ICAOCode": "A19N",
+      "Model": "Airbus A319neo",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "74C",
+      "ICAOCode": "B742",
+      "Model": "Boeing 747-200M",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "73G",
+      "ICAOCode": "B737",
+      "Model": "Boeing 737-700",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "BE55",
+      "Model": "Beechcraft Baron",
+      "Aircraft_Manufacturer": "Beechcraft",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Beechcraft"
+    },
+    {
+      "IATACode": "732",
+      "ICAOCode": "B732",
+      "Model": "Boeing 737-200",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "221",
+      "ICAOCode": "BCS1",
+      "Model": "Airbus A220-100",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "A40",
+      "ICAOCode": "A140",
+      "Model": "Antonov AN-140",
+      "Aircraft_Manufacturer": "Antonov",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Antonov"
+    },
+    {
+      "IATACode": "ANF",
+      "ICAOCode": "AN12",
+      "Model": "Antonov AN-12",
+      "Aircraft_Manufacturer": "Antonov",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Antonov"
+    },
+    {
+      "IATACode": "A28",
+      "ICAOCode": "AN28",
+      "Model": "Antonov AN-28",
+      "Aircraft_Manufacturer": "Antonov",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Antonov"
+    },
+    {
+      "IATACode": "741",
+      "ICAOCode": "B741",
+      "Model": "Boeing 747-100",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "ATR",
+      "ICAOCode": "AT75",
+      "Model": "Aerospatiale Alenia ATR 72-500",
+      "Aircraft_Manufacturer": "Aerospatiale",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Aerospatiale"
+    },
+    {
+      "IATACode": "7M7",
+      "ICAOCode": "B37M",
+      "Model": "Boeing 737 MAX 7",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "(undefined)",
+      "ICAOCode": "EA32",
+      "Model": "Airbus A320",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "ND2",
+      "ICAOCode": "N262",
+      "Model": "Aerospatiale (Nord) 262",
+      "Aircraft_Manufacturer": "Aerospatiale",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Aerospatiale"
+    },
+    {
+      "IATACode": "AT4",
+      "ICAOCode": "AT43",
+      "Model": "Aerospatiale Alenia ATR 42-300",
+      "Aircraft_Manufacturer": "Aerospatiale",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Aerospatiale"
+    },
+    {
+      "IATACode": "32Q",
+      "ICAOCode": "A21N",
+      "Model": "Airbus A321neo",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "332",
+      "ICAOCode": "A332",
+      "Model": "Airbus A330-200",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "703",
+      "ICAOCode": "B703",
+      "Model": "Boeing 707",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "739",
+      "ICAOCode": "B739",
+      "Model": "Boeing 737-900",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "738",
+      "ICAOCode": "B738",
+      "Model": "Boeing 737-800",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "BEH",
+      "ICAOCode": "B190",
+      "Model": "Beechcraft 1900",
+      "Aircraft_Manufacturer": "Beechcraft",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Beechcraft"
+    },
+    {
+      "IATACode": "(undefined)",
+      "ICAOCode": "EA30",
+      "Model": "Airbus A300",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "AR1",
+      "ICAOCode": "RJ1H",
+      "Model": "Avro RJ100",
+      "Aircraft_Manufacturer": "Avro International Aerospace",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Avro International Aerospace"
+    },
+    {
+      "IATACode": "320",
+      "ICAOCode": "A320",
+      "Model": "Airbus A320",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "7MJ",
+      "ICAOCode": "B3XM",
+      "Model": "Boeing 737 MAX 10",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "319",
+      "ICAOCode": "A319",
+      "Model": "Airbus A319",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "(undefined)",
+      "ICAOCode": "EA34",
+      "Model": "Airbus A340",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "CH7B",
+      "Model": "7GCAA, 7GCBC, 7KCAB Citabria",
+      "Aircraft_Manufacturer": "Champion Aircraft Corporation",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Champion Aircraft Corporation"
+    },
+    {
+      "IATACode": "AB6",
+      "ICAOCode": "A306",
+      "Model": "Airbus A300-600",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus"
+    },
+    {
+      "IATACode": "743",
+      "ICAOCode": "B743",
+      "Model": "Boeing 747-300",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "A5F",
+      "ICAOCode": "A225",
+      "Model": "Antonov An-225 Mriya",
+      "Aircraft_Manufacturer": "Antonov",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Antonov"
+    },
+    {
+      "IATACode": "735",
+      "ICAOCode": "B735",
+      "Model": "Boeing 737-500",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "742",
+      "ICAOCode": "B742",
+      "Model": "Boeing 747-200",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "ATR",
+      "ICAOCode": "AT46",
+      "Model": "Aerospatiale Alenia ATR 42-600",
+      "Aircraft_Manufacturer": "Aerospatiale",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Aerospatiale"
+    },
+    {
+      "IATACode": "AN4",
+      "ICAOCode": "AN24",
+      "Model": "Antonov AN-24",
+      "Aircraft_Manufacturer": "Antonov",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Antonov"
+    },
+    {
+      "IATACode": "74J",
+      "ICAOCode": "B74D",
+      "Model": "Boeing 747-400D",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "74N",
+      "ICAOCode": "B748",
+      "Model": "Boeing 747-8F",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "74V",
+      "ICAOCode": "B74R",
+      "Model": "Boeing 747SR Freighter",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "74H",
+      "ICAOCode": "B748",
+      "Model": "Boeing 747-8I",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "763",
+      "ICAOCode": "B763",
+      "Model": "Boeing 767-300",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "74E",
+      "ICAOCode": "B744",
+      "Model": "Boeing 747-400M",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "77L",
+      "ICAOCode": "B77L",
+      "Model": "Boeing 777-200LR",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "752",
+      "ICAOCode": "B752",
+      "Model": "Boeing 757-200",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "773",
+      "ICAOCode": "B773",
+      "Model": "Boeing 777-300",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "74Y",
+      "ICAOCode": "B744",
+      "Model": "Boeing 747-400F",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "H25",
+      "ICAOCode": "H25B",
+      "Model": "British Aerospace 125 series",
+      "Aircraft_Manufacturer": "Hawker Beechcraft Corporation",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Hawker Beechcraft Corporation"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "CL2T",
+      "Model": "Bombardier 415",
+      "Aircraft_Manufacturer": "Bombardier",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Bombardier"
+    },
+    {
+      "IATACode": "CCX",
+      "ICAOCode": "GLEX",
+      "Model": "Bombardier Global Express",
+      "Aircraft_Manufacturer": "Bombardier",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Bombardier"
+    },
+    {
+      "IATACode": "778",
+      "ICAOCode": "B778",
+      "Model": "Boeing 777-8",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "753",
+      "ICAOCode": "B753",
+      "Model": "Boeing 757-300",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "74R",
+      "ICAOCode": "B74R",
+      "Model": "Boeing 747SR",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "788",
+      "ICAOCode": "B788",
+      "Model": "Boeing 787-8",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "74L",
+      "ICAOCode": "B74S",
+      "Model": "Boeing 747SP",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "75F",
+      "ICAOCode": "B752",
+      "Model": "Boeing 757F",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "772",
+      "ICAOCode": "B772",
+      "Model": "Boeing 777-200",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "762",
+      "ICAOCode": "B762",
+      "Model": "Boeing 767-200",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "77X",
+      "ICAOCode": "B77L",
+      "Model": "Boeing 777-200 Freighter",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "CR7",
+      "ICAOCode": "CRJ7",
+      "Model": "Canadair Regional Jet 700 | Regional Jet 550",
+      "Aircraft_Manufacturer": "Bombardier",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Bombardier"
+    },
+    {
+      "IATACode": "J41",
+      "ICAOCode": "JS41",
+      "Model": "British Aerospace Jetstream 41",
+      "Aircraft_Manufacturer": "(undefined)",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "British Aerospace"
+    },
+    {
+      "IATACode": "764",
+      "ICAOCode": "B764",
+      "Model": "Boeing 767-400ER",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "CL30",
+      "Model": "Bombardier BD-100 Challenger 300",
+      "Aircraft_Manufacturer": "Bombardier",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Bombardier"
+    },
+    {
+      "IATACode": "779",
+      "ICAOCode": "B779",
+      "Model": "Boeing 777-9",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "H25",
+      "ICAOCode": "H25C",
+      "Model": "British Aerospace 125-1000 series",
+      "Aircraft_Manufacturer": "Hawker Beechcraft Corporation",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Hawker Beechcraft Corporation"
+    },
+    {
+      "IATACode": "CN1",
+      "ICAOCode": "C162",
+      "Model": "Cessna 162",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "781",
+      "ICAOCode": "B78X",
+      "Model": "Boeing 787-10",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "CCX",
+      "ICAOCode": "GL5T",
+      "Model": "Bombardier BD-700 Global 5000",
+      "Aircraft_Manufacturer": "Bombardier",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Bombardier"
+    },
+    {
+      "IATACode": "CRK",
+      "ICAOCode": "CRJX",
+      "Model": "Canadair Regional Jet 1000",
+      "Aircraft_Manufacturer": "Bombardier",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Bombardier"
+    },
+    {
+      "IATACode": "CNJ",
+      "ICAOCode": "C25B",
+      "Model": "Cessna Citation CJ3",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "J31",
+      "ICAOCode": "JS31",
+      "Model": "British Aerospace Jetstream 31",
+      "Aircraft_Manufacturer": "(undefined)",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "British Aerospace"
+    },
+    {
+      "IATACode": "ATP",
+      "ICAOCode": "ATP",
+      "Model": "British Aerospace ATP",
+      "Aircraft_Manufacturer": "(undefined)",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "British Aerospace"
+    },
+    {
+      "IATACode": "CR9",
+      "ICAOCode": "CRJ9",
+      "Model": "Canadair Regional Jet 900",
+      "Aircraft_Manufacturer": "Bombardier",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Bombardier"
+    },
+    {
+      "IATACode": "CN1",
+      "ICAOCode": "C206",
+      "Model": "Cessna 206 Stationair",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "CCJ",
+      "ICAOCode": "CL60",
+      "Model": "Canadair Challenger",
+      "Aircraft_Manufacturer": "Bombardier",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Bombardier"
+    },
+    {
+      "IATACode": "CS5",
+      "ICAOCode": "CN35",
+      "Model": "CASA IPTN CN-235",
+      "Aircraft_Manufacturer": "Indonesian Aerospace",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Indonesian Aerospace"
+    },
+    {
+      "IATACode": "DHC",
+      "ICAOCode": "DHC5",
+      "Model": "De Havilland Canada DHC-5 Buffalo",
+      "Aircraft_Manufacturer": "De Havilland Aircraft of Canada",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "De Havilland Aircraft of Canada"
+    },
+    {
+      "IATACode": "77W",
+      "ICAOCode": "B77W",
+      "Model": "Boeing 777-300ER",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "DF9",
+      "ICAOCode": "F900",
+      "Model": "Dassault Falcon 900",
+      "Aircraft_Manufacturer": "Dassault Falcon",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Dassault Falcon"
+    },
+    {
+      "IATACode": "CNJ",
+      "ICAOCode": "C650",
+      "Model": "Cessna Citation III, VI, VII",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "CN1",
+      "ICAOCode": "C77R",
+      "Model": "Cessna 177 Cardinal RG",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "CNJ",
+      "ICAOCode": "C25A",
+      "Model": "Cessna Citation CJ2",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "CNJ",
+      "ICAOCode": "C510",
+      "Model": "Cessna Citation Mustang",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "CR1",
+      "ICAOCode": "CRJ1",
+      "Model": "Canadair Regional Jet 100",
+      "Aircraft_Manufacturer": "Bombardier",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Bombardier"
+    },
+    {
+      "IATACode": "DHH",
+      "ICAOCode": "HERN",
+      "Model": "De Havilland DH.114 Heron",
+      "Aircraft_Manufacturer": "De Havilland Aircraft of Canada",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "De Havilland Aircraft of Canada"
+    },
+    {
+      "IATACode": "J32",
+      "ICAOCode": "JS32",
+      "Model": "British Aerospace Jetstream 32",
+      "Aircraft_Manufacturer": "(undefined)",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "British Aerospace"
+    },
+    {
+      "IATACode": "(undefined)",
+      "ICAOCode": "SF50",
+      "Model": "Cirrus SF50 Vision Jet",
+      "Aircraft_Manufacturer": "Cirrus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cirrus"
+    },
+    {
+      "IATACode": "CN1",
+      "ICAOCode": "C172",
+      "Model": "Cessna 172",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "CNJ",
+      "ICAOCode": "C25C",
+      "Model": "Cessna Citation CJ4",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "789",
+      "ICAOCode": "B789",
+      "Model": "Boeing 787-9",
+      "Aircraft_Manufacturer": "Boeing",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Boeing"
+    },
+    {
+      "IATACode": "CNJ",
+      "ICAOCode": "C525",
+      "Model": "Cessna CitationJet",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "C310",
+      "Model": "Cessna 310",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "DHT",
+      "ICAOCode": "DHC6",
+      "Model": "De Havilland Canada DHC-6 Twin Otter",
+      "Aircraft_Manufacturer": "De Havilland Aircraft of Canada",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "De Havilland Aircraft of Canada"
+    },
+    {
+      "IATACode": "B11",
+      "ICAOCode": "BA11",
+      "Model": "British Aerospace (BAC) One Eleven",
+      "Aircraft_Manufacturer": "British Aircraft Corporation",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "British Aircraft Corporation"
+    },
+    {
+      "IATACode": "CN1",
+      "ICAOCode": "C208",
+      "Model": "Cessna 208 Caravan",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "DH3",
+      "ICAOCode": "DH8C",
+      "Model": "De Havilland Canada DHC-8-300 Dash 8",
+      "Aircraft_Manufacturer": "De Havilland Aircraft of Canada",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "De Havilland Aircraft of Canada"
+    },
+    {
+      "IATACode": "DHP",
+      "ICAOCode": "DHC2",
+      "Model": "De Havilland Canada DHC-2 Beaver",
+      "Aircraft_Manufacturer": "De Havilland Aircraft of Canada",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "De Havilland Aircraft of Canada"
+    },
+    {
+      "IATACode": "CWC",
+      "ICAOCode": "C46",
+      "Model": "Curtiss C-46 Commando",
+      "Aircraft_Manufacturer": "Curtiss-Wright",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Curtiss-Wright"
+    },
+    {
+      "IATACode": "CNJ",
+      "ICAOCode": "C500",
+      "Model": "Cessna Citation I",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "CR2",
+      "ICAOCode": "CRJ2",
+      "Model": "Canadair Regional Jet 200",
+      "Aircraft_Manufacturer": "Bombardier",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Bombardier"
+    },
+    {
+      "IATACode": "D1Y",
+      "ICAOCode": "DC10",
+      "Model": "Douglas DC-10-30 ",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "CV5",
+      "ICAOCode": "CVLT",
+      "Model": "Convair CV-580, Convair CV-600, Convair CV-640",
+      "Aircraft_Manufacturer": "Convair",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Convair"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "C152",
+      "Model": "Cessna 152",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "CN1",
+      "ICAOCode": "C182",
+      "Model": "Cessna 182 Skylane",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "CS2",
+      "ICAOCode": "C212",
+      "Model": "CASA IPTN 212 Aviocar",
+      "Aircraft_Manufacturer": "Indonesian Aerospace",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Indonesian Aerospace"
+    },
+    {
+      "IATACode": "DH4",
+      "ICAOCode": "DH8D",
+      "Model": "De Havilland Canada DHC-8-400 Dash 8Q",
+      "Aircraft_Manufacturer": "De Havilland Aircraft of Canada",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "De Havilland Aircraft of Canada"
+    },
+    {
+      "IATACode": "D8T",
+      "ICAOCode": "DC85",
+      "Model": "Douglas DC-8-50",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "CNJ",
+      "ICAOCode": "C550",
+      "Model": "Cessna Citation II",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "CN1",
+      "ICAOCode": "C72R",
+      "Model": "Cessna 172 Cutlass RG",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "CNJ",
+      "ICAOCode": "C750",
+      "Model": "Cessna Citation X",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "D1C",
+      "ICAOCode": "DC10",
+      "Model": "Douglas DC-10-30",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "DA42",
+      "Model": "Diamond DA42",
+      "Aircraft_Manufacturer": "Diamond Aircraft Industries",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Diamond Aircraft Industries"
+    },
+    {
+      "IATACode": "CV4",
+      "ICAOCode": "CVLP",
+      "Model": "Convair CV-240 & -440",
+      "Aircraft_Manufacturer": "Convair",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Convair"
+    },
+    {
+      "IATACode": "DH2",
+      "ICAOCode": "DH8B",
+      "Model": "De Havilland Canada DHC-8-200 Dash 8",
+      "Aircraft_Manufacturer": "De Havilland Aircraft of Canada",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "De Havilland Aircraft of Canada"
+    },
+    {
+      "IATACode": "CN1",
+      "ICAOCode": "C210",
+      "Model": "Cessna 210 Centurion",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "DHC",
+      "ICAOCode": "DHC4",
+      "Model": "De Havilland Canada DHC-4 Caribou",
+      "Aircraft_Manufacturer": "De Havilland Aircraft of Canada",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "De Havilland Aircraft of Canada"
+    },
+    {
+      "IATACode": "DF7",
+      "ICAOCode": "FA7X",
+      "Model": "Dassault Falcon 7X",
+      "Aircraft_Manufacturer": "Dassault Falcon",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Dassault Falcon"
+    },
+    {
+      "IATACode": "CNJ",
+      "ICAOCode": "C560",
+      "Model": "Cessna Citation V",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "D1X",
+      "ICAOCode": "DC10",
+      "Model": "Douglas DC-10-10 Freighter",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "SSC",
+      "ICAOCode": "CONC",
+      "Model": "Concorde",
+      "Aircraft_Manufacturer": "Airbus",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Airbus, A�rospatiale, BAE Systems, Sud Aviation, British Aerospace, British Aircraft Corporation"
+    },
+    {
+      "IATACode": "DHD",
+      "ICAOCode": "DOVE",
+      "Model": "De Havilland DH.104 Dove",
+      "Aircraft_Manufacturer": "De Havilland Aircraft of Canada",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "De Havilland Aircraft of Canada"
+    },
+    {
+      "IATACode": "D6F",
+      "ICAOCode": "DC6",
+      "Model": "Douglas DC-6",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "CNJ",
+      "ICAOCode": "C56X",
+      "Model": "Cessna Citation Excel",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "CNJ",
+      "ICAOCode": "C680",
+      "Model": "Cessna Citation Sovereign",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "DF3",
+      "ICAOCode": "FA50",
+      "Model": "Dassault Falcon 50",
+      "Aircraft_Manufacturer": "Dassault Falcon",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Dassault Falcon"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "C919",
+      "Model": "COMAC C919",
+      "Aircraft_Manufacturer": "China Commercial Aircraft",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "China Commercial Aircraft"
+    },
+    {
+      "IATACode": "DHL",
+      "ICAOCode": "DHC3",
+      "Model": "De Havilland Canada DHC-3 Otter",
+      "Aircraft_Manufacturer": "De Havilland Aircraft of Canada",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "De Havilland Aircraft of Canada"
+    },
+    {
+      "IATACode": "DH1",
+      "ICAOCode": "DH8A",
+      "Model": "De Havilland Canada DHC-8-100 Dash 8",
+      "Aircraft_Manufacturer": "De Havilland Aircraft of Canada",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "De Havilland Aircraft of Canada"
+    },
+    {
+      "IATACode": "(undefined)",
+      "ICAOCode": "DH64",
+      "Model": "De Havilland Comet 4",
+      "Aircraft_Manufacturer": "De Havilland Aircraft of Canada",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "De Havilland Aircraft of Canada"
+    },
+    {
+      "IATACode": "DHR",
+      "ICAOCode": "DH2T",
+      "Model": "De Havilland Canada DHC-2 Turbo-Beaver",
+      "Aircraft_Manufacturer": "De Havilland Aircraft of Canada",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "De Havilland Aircraft of Canada"
+    },
+    {
+      "IATACode": "D20",
+      "ICAOCode": "F2TH",
+      "Model": "Dassault Falcon 2000",
+      "Aircraft_Manufacturer": "Dassault Falcon",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Dassault Falcon"
+    },
+    {
+      "IATACode": "DH7",
+      "ICAOCode": "DHC7",
+      "Model": "De Havilland Canada DHC-7 Dash 7",
+      "Aircraft_Manufacturer": "De Havilland Aircraft of Canada",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "De Havilland Aircraft of Canada"
+    },
+    {
+      "IATACode": "D3F",
+      "ICAOCode": "DC3",
+      "Model": "Douglas DC-3",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "(undefined)",
+      "ICAOCode": "DH62",
+      "Model": "De Havilland Comet 2 (deprecated code)",
+      "Aircraft_Manufacturer": "De Havilland Aircraft of Canada",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "De Havilland Aircraft of Canada"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "DA62",
+      "Model": "Diamond DA62",
+      "Aircraft_Manufacturer": "Diamond Aircraft Industries",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Diamond Aircraft Industries"
+    },
+    {
+      "IATACode": "D1M",
+      "ICAOCode": "DC10",
+      "Model": "Douglas DC-10-30 Combi",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "D91",
+      "ICAOCode": "DC91",
+      "Model": "Douglas DC-9-10",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "D8Q",
+      "ICAOCode": "DC87",
+      "Model": "Douglas DC-8-72",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "D95",
+      "ICAOCode": "DC95",
+      "Model": "Douglas DC-9-50",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "E75",
+      "ICAOCode": "E75S",
+      "Model": "Embraer 175",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "D93",
+      "ICAOCode": "DC93",
+      "Model": "Douglas DC-9-30",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "E7W",
+      "ICAOCode": "E75L",
+      "Model": "Embraer 175 (long wing)",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "EM2",
+      "ICAOCode": "E120",
+      "Model": "Embraer EMB 120 Brasilia",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "E90",
+      "ICAOCode": "E190",
+      "Model": "Embraer 190",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "290",
+      "ICAOCode": "E290",
+      "Model": "Embraer E190-E2",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "295",
+      "ICAOCode": "E295",
+      "Model": "Embraer E195-E2",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "D92",
+      "ICAOCode": "DC92",
+      "Model": "Douglas DC-9-20",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "E550",
+      "Model": "Embraer Legacy 500",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "EC35",
+      "Model": "Eurocopter EC135",
+      "Aircraft_Manufacturer": "Eurocopter",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "Eurocopter"
+    },
+    {
+      "IATACode": "ER3",
+      "ICAOCode": "E135",
+      "Model": "Embraer RJ135",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "GA8",
+      "Model": "GippsAero GA8 Airvan",
+      "Aircraft_Manufacturer": "GippsAero",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "GippsAero"
+    },
+    {
+      "IATACode": "D94",
+      "ICAOCode": "DC94",
+      "Model": "Douglas DC-9-40",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "FRJ",
+      "ICAOCode": "J328",
+      "Model": "Fairchild Dornier 328JET",
+      "Aircraft_Manufacturer": "Dornier Luftfahrt",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Dornier Luftfahrt"
+    },
+    {
+      "IATACode": "NDE",
+      "ICAOCode": "AS50",
+      "Model": "Eurocopter AS350",
+      "Aircraft_Manufacturer": "Eurocopter",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "Eurocopter"
+    },
+    {
+      "IATACode": "APH",
+      "ICAOCode": "AS32",
+      "Model": "Eurocopter AS332 Super Puma",
+      "Aircraft_Manufacturer": "Eurocopter",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "Eurocopter"
+    },
+    {
+      "IATACode": "ERD",
+      "ICAOCode": "E135",
+      "Model": "Embraer RJ140",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "NDH",
+      "ICAOCode": "S65C",
+      "Model": "Eurocopter (Aerospatiale) SA365C",
+      "Aircraft_Manufacturer": "Eurocopter",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "Eurocopter"
+    },
+    {
+      "IATACode": "F21",
+      "ICAOCode": "F28",
+      "Model": "Fokker F28 Fellowship",
+      "Aircraft_Manufacturer": "Fokker",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Fokker"
+    },
+    {
+      "IATACode": "EP1",
+      "ICAOCode": "E50P",
+      "Model": "Embraer Phenom 100",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "100",
+      "ICAOCode": "F100",
+      "Model": "Fokker 100",
+      "Aircraft_Manufacturer": "Fokker",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Fokker"
+    },
+    {
+      "IATACode": "GR3",
+      "ICAOCode": "G280",
+      "Model": "Gulfstream G280",
+      "Aircraft_Manufacturer": "Gulfstream",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Gulfstream"
+    },
+    {
+      "IATACode": "D8L",
+      "ICAOCode": "DC86",
+      "Model": "Douglas DC-8-62",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "GRS",
+      "ICAOCode": "G159",
+      "Model": "Gulfstream Aerospace G-159 Gulfstream I",
+      "Aircraft_Manufacturer": "Gulfstream",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Gulfstream"
+    },
+    {
+      "IATACode": "D38",
+      "ICAOCode": "D328",
+      "Model": "Fairchild Dornier Do.328",
+      "Aircraft_Manufacturer": "Dornier Luftfahrt",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Dornier Luftfahrt"
+    },
+    {
+      "IATACode": "E70",
+      "ICAOCode": "E170",
+      "Model": "Embraer 170",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "F70",
+      "ICAOCode": "F70",
+      "Model": "Fokker 70",
+      "Aircraft_Manufacturer": "Fokker",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Fokker"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "EV97",
+      "Model": "EV-97 EuroStar",
+      "Aircraft_Manufacturer": "Evektor-Aerotechnik",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Evektor-Aerotechnik"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "EC25",
+      "Model": "Eurocopter EC225 Super Puma",
+      "Aircraft_Manufacturer": "Eurocopter",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "Eurocopter"
+    },
+    {
+      "IATACode": "GRG",
+      "ICAOCode": "G21",
+      "Model": "Grumman G-21 Goose",
+      "Aircraft_Manufacturer": "Grumman",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Grumman"
+    },
+    {
+      "IATACode": "E95",
+      "ICAOCode": "E195",
+      "Model": "Embraer 195",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "EP3",
+      "ICAOCode": "E55P",
+      "Model": "Embraer Phenom 300",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "GJ4",
+      "ICAOCode": "GLF4",
+      "Model": "Gulfstream IV",
+      "Aircraft_Manufacturer": "Gulfstream",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Gulfstream"
+    },
+    {
+      "IATACode": "HS7",
+      "ICAOCode": "A748",
+      "Model": "Hawker Siddeley HS 748",
+      "Aircraft_Manufacturer": "Avro International Aerospace",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Avro International Aerospace"
+    },
+    {
+      "IATACode": "ACT",
+      "ICAOCode": "AC90",
+      "Model": "Gulfstream",
+      "Aircraft_Manufacturer": "Gulfstream",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Gulfstream"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "E545",
+      "Model": "Embraer Legacy 450",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "ACP",
+      "ICAOCode": "AC68",
+      "Model": "Gulfstream",
+      "Aircraft_Manufacturer": "Gulfstream",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Gulfstream"
+    },
+    {
+      "IATACode": "E7W",
+      "ICAOCode": "E75S",
+      "Model": "Embraer 175 (short wing)",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "IL6",
+      "ICAOCode": "IL62",
+      "Model": "Ilyushin IL62",
+      "Aircraft_Manufacturer": "Ilyushin",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Ilyushin"
+    },
+    {
+      "IATACode": "I14",
+      "ICAOCode": "I114",
+      "Model": "Ilyushin IL114",
+      "Aircraft_Manufacturer": "Russian Aircraft Corporation MiG",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Russian Aircraft Corporation MiG"
+    },
+    {
+      "IATACode": "JU5",
+      "ICAOCode": "JU52",
+      "Model": "Junkers Ju 52 3M",
+      "Aircraft_Manufacturer": "Junkers",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Junkers"
+    },
+    {
+      "IATACode": "F27",
+      "ICAOCode": "F27",
+      "Model": "Fokker F27 Friendship",
+      "Aircraft_Manufacturer": "Fokker",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Fokker"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "EC45",
+      "Model": "Eurocopter EC145",
+      "Aircraft_Manufacturer": "Eurocopter",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "Eurocopter"
+    },
+    {
+      "IATACode": "F50",
+      "ICAOCode": "F50",
+      "Model": "Fokker 50",
+      "Aircraft_Manufacturer": "Fokker",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Fokker"
+    },
+    {
+      "IATACode": "L4T",
+      "ICAOCode": "L410",
+      "Model": "LET 410",
+      "Aircraft_Manufacturer": "Let Kunovice",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Let Kunovice"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "A5",
+      "Model": "ICON A5",
+      "Aircraft_Manufacturer": "ICON",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "ICON"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "EVSS",
+      "Model": "Evektor SportStar",
+      "Aircraft_Manufacturer": "Evektor-Aerotechnik",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Evektor-Aerotechnik"
+    },
+    {
+      "IATACode": "L49",
+      "ICAOCode": "CONI",
+      "Model": "Lockheed L-1049 Super Constellation",
+      "Aircraft_Manufacturer": "Lockheed Corporation",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Lockheed Corporation"
+    },
+    {
+      "IATACode": "M83",
+      "ICAOCode": "MD83",
+      "Model": "McDonnell Douglas MD-83",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "D28",
+      "ICAOCode": "D228",
+      "Model": "Fairchild Dornier Do.228",
+      "Aircraft_Manufacturer": "Dornier Luftfahrt",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Dornier Luftfahrt"
+    },
+    {
+      "IATACode": "I93",
+      "ICAOCode": "IL96",
+      "Model": "Ilyushin IL96",
+      "Aircraft_Manufacturer": "Ilyushin",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Ilyushin"
+    },
+    {
+      "IATACode": "M11",
+      "ICAOCode": "MD11",
+      "Model": "McDonnell Douglas MD-11",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "E90",
+      "ICAOCode": "E190",
+      "Model": "Embraer Lineage 1000",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "EMB",
+      "ICAOCode": "E110",
+      "Model": "Embraer EMB 110 Bandeirante",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "MBH",
+      "ICAOCode": "B105",
+      "Model": "Eurocopter (MBB) Bo.105",
+      "Aircraft_Manufacturer": "Eurocopter",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "Eurocopter"
+    },
+    {
+      "IATACode": "ER4",
+      "ICAOCode": "E145",
+      "Model": "Embraer RJ145",
+      "Aircraft_Manufacturer": "Embraer",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Embraer"
+    },
+    {
+      "IATACode": "GRM",
+      "ICAOCode": "G73T",
+      "Model": "Grumman G-73 Turbo Mallard",
+      "Aircraft_Manufacturer": "Grumman",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Grumman"
+    },
+    {
+      "IATACode": "GJ5",
+      "ICAOCode": "GLF5",
+      "Model": "Gulfstream V",
+      "Aircraft_Manufacturer": "Gulfstream",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Gulfstream"
+    },
+    {
+      "IATACode": "YN2",
+      "ICAOCode": "Y12",
+      "Model": "Harbin Yunshuji Y12",
+      "Aircraft_Manufacturer": "Harbin Aircraft Industry Group",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Harbin Aircraft Industry Group"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "MI24",
+      "Model": "Mil Mi-24 - Mi-25 - Mi-35",
+      "Aircraft_Manufacturer": "Mil Moscow Helicopter Plant",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "Mil Moscow Helicopter Plant"
+    },
+    {
+      "IATACode": "ILW",
+      "ICAOCode": "IL86",
+      "Model": "Ilyushin IL86",
+      "Aircraft_Manufacturer": "Ilyushin",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Ilyushin"
+    },
+    {
+      "IATACode": "GJ6",
+      "ICAOCode": "GLF6",
+      "Model": "Gulfstream G650",
+      "Aircraft_Manufacturer": "Gulfstream",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Gulfstream"
+    },
+    {
+      "IATACode": "CD2",
+      "ICAOCode": "NOMA",
+      "Model": "Government Aircraft Factories N22B - N24A Nomad",
+      "Aircraft_Manufacturer": "Government Aircraft Factories",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Government Aircraft Factories"
+    },
+    {
+      "IATACode": "IL7",
+      "ICAOCode": "IL76",
+      "Model": "Ilyushin IL76",
+      "Aircraft_Manufacturer": "Ilyushin",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Ilyushin"
+    },
+    {
+      "IATACode": "M1F",
+      "ICAOCode": "MD11",
+      "Model": "McDonnell Douglas MD-11F",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "HDJT",
+      "Model": "Honda HA-420",
+      "Aircraft_Manufacturer": "Honda",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Honda"
+    },
+    {
+      "IATACode": "MU2",
+      "ICAOCode": "MU2",
+      "Model": "Mitsubishi Mu-2",
+      "Aircraft_Manufacturer": "Mitsubishi",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Mitsubishi"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "P28B",
+      "Model": "Piper PA-28 (above 200��hp)",
+      "Aircraft_Manufacturer": "Piper Aircraft",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Piper Aircraft"
+    },
+    {
+      "IATACode": "WWP",
+      "ICAOCode": "WW24",
+      "Model": "Israel Aircraft Industries 1124 Westwind",
+      "Aircraft_Manufacturer": "Israel Aircraft Industries",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Israel Aircraft Industries"
+    },
+    {
+      "IATACode": "LOH",
+      "ICAOCode": "C130",
+      "Model": "Lockheed L-182 - 282 - 382 (L-100) Hercules",
+      "Aircraft_Manufacturer": "Lockheed Corporation",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Lockheed Corporation"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "P180",
+      "Model": "Piaggio P.180 Avanti",
+      "Aircraft_Manufacturer": "Piaggio Aero",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Piaggio Aero"
+    },
+    {
+      "IATACode": "IL8",
+      "ICAOCode": "IL18",
+      "Model": "Ilyushin IL18",
+      "Aircraft_Manufacturer": "Ilyushin",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Ilyushin"
+    },
+    {
+      "IATACode": "LRJ",
+      "ICAOCode": "LJ35",
+      "Model": "Learjet 35 - 36 - C-21A",
+      "Aircraft_Manufacturer": "Learjet",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Learjet"
+    },
+    {
+      "IATACode": "M88",
+      "ICAOCode": "MD88",
+      "Model": "McDonnell Douglas MD-88",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "M1M",
+      "ICAOCode": "MD11",
+      "Model": "McDonnell Douglas MD-11C",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "LRJ",
+      "ICAOCode": "LJ60",
+      "Model": "Learjet 60",
+      "Aircraft_Manufacturer": "Learjet",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Learjet"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "PISI",
+      "Model": "Pipistrel Sinus",
+      "Aircraft_Manufacturer": "Pipistrel",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Pipistrel"
+    },
+    {
+      "IATACode": "L10",
+      "ICAOCode": "L101",
+      "Model": "Lockheed L-1011 Tristar",
+      "Aircraft_Manufacturer": "Lockheed Corporation",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Lockheed Corporation"
+    },
+    {
+      "IATACode": "BNI",
+      "ICAOCode": "BN2P",
+      "Model": "Pilatus Britten-Norman BN-2A-B Islander",
+      "Aircraft_Manufacturer": "Britten-Norman",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Britten-Norman"
+    },
+    {
+      "IATACode": "PA2",
+      "ICAOCode": "PA31",
+      "Model": "Piper PA-31 Navajo",
+      "Aircraft_Manufacturer": "Piper Aircraft",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Piper Aircraft"
+    },
+    {
+      "IATACode": "M87",
+      "ICAOCode": "MD87",
+      "Model": "McDonnell Douglas MD-87",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "LOE",
+      "ICAOCode": "L188",
+      "Model": "Lockheed L-188 Electra",
+      "Aircraft_Manufacturer": "Lockheed Corporation",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Lockheed Corporation"
+    },
+    {
+      "IATACode": "YS1",
+      "ICAOCode": "YS11",
+      "Model": "NAMC YS-11",
+      "Aircraft_Manufacturer": "Nihon Aircraft Manufacturing Corporation",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Nihon Aircraft Manufacturing Corporation"
+    },
+    {
+      "IATACode": "MIH",
+      "ICAOCode": "MI8",
+      "Model": "MIL Mi-8 - Mi-17 - Mi-171 - Mil-172",
+      "Aircraft_Manufacturer": "Mil Moscow Helicopter Plant",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "Mil Moscow Helicopter Plant"
+    },
+    {
+      "IATACode": "M81",
+      "ICAOCode": "MD81",
+      "Model": "McDonnell Douglas MD-81",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "BNT",
+      "ICAOCode": "TRIS",
+      "Model": "Pilatus Britten-Norman BN-2A Mk III Trislander",
+      "Aircraft_Manufacturer": "Britten-Norman",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Britten-Norman"
+    },
+    {
+      "IATACode": "M90",
+      "ICAOCode": "MD90",
+      "Model": "McDonnell Douglas MD-90",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "PA44",
+      "Model": "Piper PA-44 Seminole",
+      "Aircraft_Manufacturer": "Piper Aircraft",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Piper Aircraft"
+    },
+    {
+      "IATACode": "M82",
+      "ICAOCode": "MD82",
+      "Model": "McDonnell Douglas MD-82",
+      "Aircraft_Manufacturer": "McDonnell Douglas",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "McDonnell Douglas"
+    },
+    {
+      "IATACode": "PL2",
+      "ICAOCode": "PC12",
+      "Model": "Pilatus PC-12",
+      "Aircraft_Manufacturer": "Pilatus Aircraft",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Pilatus Aircraft"
+    },
+    {
+      "IATACode": "PN6",
+      "ICAOCode": "P68",
+      "Model": "Partenavia P.68",
+      "Aircraft_Manufacturer": "Vulcanair",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Vulcanair"
+    },
+    {
+      "IATACode": "MD9",
+      "ICAOCode": "EXPL",
+      "Model": "MD Helicopters MD900 Explorer",
+      "Aircraft_Manufacturer": "MD Helicopters",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "MD Helicopters"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "P28A",
+      "Model": "Piper PA-28 (up to 180��hp)",
+      "Aircraft_Manufacturer": "Piper Aircraft",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Piper Aircraft"
+    },
+    {
+      "IATACode": "PL6",
+      "ICAOCode": "PC6T",
+      "Model": "Pilatus PC-6 Turbo Porter",
+      "Aircraft_Manufacturer": "Pilatus Aircraft",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Pilatus Aircraft"
+    },
+    {
+      "IATACode": "PAG",
+      "ICAOCode": "PA46",
+      "Model": "Piper PA-46",
+      "Aircraft_Manufacturer": "Piper Aircraft",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Piper Aircraft"
+    },
+    {
+      "IATACode": "SHB",
+      "ICAOCode": "BELF",
+      "Model": "Shorts SC-5 Belfast",
+      "Aircraft_Manufacturer": "Short Brothers",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Short Brothers"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "PIVI",
+      "Model": "Pipistrel Virus",
+      "Aircraft_Manufacturer": "Pipistrel",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Pipistrel"
+    },
+    {
+      "IATACode": "ATL",
+      "ICAOCode": "ATL",
+      "Model": "Robin ATL",
+      "Aircraft_Manufacturer": "Avions Robin",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Avions Robin"
+    },
+    {
+      "IATACode": "SF3",
+      "ICAOCode": "SF34",
+      "Model": "Saab SF340A-B",
+      "Aircraft_Manufacturer": "Saab",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Saab"
+    },
+    {
+      "IATACode": "CNT",
+      "ICAOCode": "F406",
+      "Model": "Reims-Cessna F406 Caravan II",
+      "Aircraft_Manufacturer": "Cessna",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Cessna"
+    },
+    {
+      "IATACode": "SHS",
+      "ICAOCode": "SC7",
+      "Model": "Shorts SC-7 Skyvan",
+      "Aircraft_Manufacturer": "Short Brothers",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Short Brothers"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "PITA",
+      "Model": "Pipistrel Taurus",
+      "Aircraft_Manufacturer": "Pipistrel",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Pipistrel"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "SIRA",
+      "Model": "Tecnam P2002 Sierra",
+      "Aircraft_Manufacturer": "Tecnam",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Tecnam"
+    },
+    {
+      "IATACode": "S58",
+      "ICAOCode": "S58T",
+      "Model": "Sikorsky S-58T",
+      "Aircraft_Manufacturer": "Sikorsky",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "Sikorsky"
+    },
+    {
+      "IATACode": "TU5",
+      "ICAOCode": "T154",
+      "Model": "Tupolev Tu-154",
+      "Aircraft_Manufacturer": "Tupolev",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Tupolev"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "R200",
+      "Model": "Robin HR200-R2000 series, Alpha160A",
+      "Aircraft_Manufacturer": "Avions Robin",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Avions Robin"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "TRF1",
+      "Model": "Team Rocket F1",
+      "Aircraft_Manufacturer": "Team Rocket",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Team Rocket"
+    },
+    {
+      "IATACode": "S76",
+      "ICAOCode": "S76",
+      "Model": "Sikorsky S-76",
+      "Aircraft_Manufacturer": "Sikorsky",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "Sikorsky"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "ECHO",
+      "Model": "Tecnam P92 Echo - P92 Eaglet - P92 SeaSky",
+      "Aircraft_Manufacturer": "Tecnam",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Tecnam"
+    },
+    {
+      "IATACode": "S61",
+      "ICAOCode": "S61",
+      "Model": "Sikorsky S-61",
+      "Aircraft_Manufacturer": "Sikorsky",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "Sikorsky"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "TWEN",
+      "Model": "Tecnam P2010",
+      "Aircraft_Manufacturer": "Tecnam",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Tecnam"
+    },
+    {
+      "IATACode": "YK2",
+      "ICAOCode": "YK42",
+      "Model": "Yakovlev Yak-42",
+      "Aircraft_Manufacturer": "Yakovlev",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Yakovlev"
+    },
+    {
+      "IATACode": "SU9",
+      "ICAOCode": "SU95",
+      "Model": "Sukhoi Superjet 100-95",
+      "Aircraft_Manufacturer": "Sukhoi",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Sukhoi"
+    },
+    {
+      "IATACode": "TU3",
+      "ICAOCode": "T134",
+      "Model": "Tupolev Tu-134",
+      "Aircraft_Manufacturer": "Tupolev",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Tupolev"
+    },
+    {
+      "IATACode": "T12",
+      "ICAOCode": "P212",
+      "Model": "Tecnam P2012 Traveller",
+      "Aircraft_Manufacturer": "Tecnam",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Tecnam"
+    },
+    {
+      "IATACode": "S20",
+      "ICAOCode": "SB20",
+      "Model": "Saab 2000",
+      "Aircraft_Manufacturer": "Saab",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Saab"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "T144",
+      "Model": "Tupolev Tu-144",
+      "Aircraft_Manufacturer": "Tupolev",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Tupolev"
+    },
+    {
+      "IATACode": "SH3",
+      "ICAOCode": "SH33",
+      "Model": "Shorts SD.330",
+      "Aircraft_Manufacturer": "Short Brothers",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Short Brothers"
+    },
+    {
+      "IATACode": "SH6",
+      "ICAOCode": "SH36",
+      "Model": "Shorts SD.360",
+      "Aircraft_Manufacturer": "Short Brothers",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Short Brothers"
+    },
+    {
+      "IATACode": "S92",
+      "ICAOCode": "S92",
+      "Model": "Sikorsky S-92",
+      "Aircraft_Manufacturer": "Sikorsky",
+      "WingType": "Rotary Wing",
+      "Type": "Helicopter",
+      "Manufacturer": "Sikorsky"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "TB20",
+      "Model": "Socata TB-20 Trinidad",
+      "Aircraft_Manufacturer": "Socata",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Socata"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "P06T",
+      "Model": "Tecnam P2006T",
+      "Aircraft_Manufacturer": "Tecnam",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Tecnam"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "P208",
+      "Model": "Tecnam P2008",
+      "Aircraft_Manufacturer": "Tecnam",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Tecnam"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "GOLF",
+      "Model": "Tecnam P96",
+      "Aircraft_Manufacturer": "Tecnam",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Tecnam"
+    },
+    {
+      "IATACode": "T20",
+      "ICAOCode": "T204",
+      "Model": "Tupolev Tu-204 - Tu-214",
+      "Aircraft_Manufacturer": "Tupolev",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Tupolev"
+    },
+    {
+      "IATACode": "N/A",
+      "ICAOCode": "TL20",
+      "Model": "TL Ultralight TL-96 Star - TL-2000 Sting",
+      "Aircraft_Manufacturer": "TL Ultralight",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "TL Ultralight"
+    },
+    {
+      "IATACode": "YK4",
+      "ICAOCode": "YK40",
+      "Model": "Yakovlev Yak-40",
+      "Aircraft_Manufacturer": "Yakovlev",
+      "WingType": "Fixed Wing",
+      "Type": "Airplane",
+      "Manufacturer": "Yakovlev"
+    }
+  ]
